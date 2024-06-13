@@ -12,3 +12,5 @@
 checkPermission("ADMIN", isAdminAction, isNotAdminAction);
 checkPermission("USER", isAdminAction, isNotAdminAction);
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
